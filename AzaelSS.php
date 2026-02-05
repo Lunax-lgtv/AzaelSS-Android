@@ -21,7 +21,7 @@ $vermelhobg = "\e[101m";
 $cinza = "\e[37m";
 $ciano = "\e[36m";
 $bold   = "\e[1m";
-function Azael_banner(){
+function Keller_banner(){
   echo "\e[97m
     ╔══════════════════════════════════════════════════════════════╗
     ║                                                              ║
@@ -1493,5 +1493,6 @@ escolheropcoes:
             die();
         }
       }
+
 
 ?>
