@@ -21,7 +21,7 @@ $vermelhobg = "\e[101m";
 $cinza = "\e[37m";
 $ciano = "\e[36m";
 $bold   = "\e[1m";
-function Keller_banner(){
+function keller_banner(){
   echo "\e[97m
     ╔══════════════════════════════════════════════════════════════╗
     ║                                                              ║
@@ -1496,3 +1496,4 @@ escolheropcoes:
 
 
 ?>
+
